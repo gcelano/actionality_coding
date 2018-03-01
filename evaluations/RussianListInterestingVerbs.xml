@@ -1,0 +1,36 @@
+<!-- This file has been written manually from an existing EXCEL file and contains 
+Russian lemmas which were suggested to be interesting as far as the Perf/Imp distinction
+concerns: only the lemma белеть is present among the ones in 
+the  Russian treebanks [contains(@ud_tbk,"UD_Russian")] in 02_aspectOppositions -->
+
+<list>
+<verb latin="ljubit'">любить</verb>
+<verb latin="belet'">белеть</verb>
+<verb latin="bolet'">болеть</verb>
+<verb latin="zlit'sja'">знобить</verb>
+<verb latin="toskovat'">тосковать</verb>
+<verb latin="znat'">знать</verb>
+<verb latin="znobit'">знобить</verb>
+<verb latin="grustit'">грустить</verb>
+<verb latin="lichoradit'">лихорадить</verb>
+<verb latin="bedstvovat'">бедствовать</verb>
+<verb latin="igrat'">играть</verb>
+<verb latin="kipet'">кипеть</verb>
+<verb latin="guljat'">гулять</verb>
+<verb latin="ležat'">лежать</verb>
+<verb latin="spat'">спать</verb>
+<verb latin="rabotat'">работать</verb>
+<verb latin="krutit'sja">крутиться</verb>
+<verb latin="kušat'">кусать</verb>
+<verb latin="tancevat'">танцевать</verb>
+<verb latin="pjanstvovat'">пьянствовать</verb>
+<verb latin="otkryt'">открыть</verb>
+<verb latin="najti">найти</verb>
+<verb latin="leč'">лечь</verb>
+<verb latin="isčeznut'">исчезнуть</verb>
+<verb latin="perestroit'">перестроить</verb>
+<verb latin="poterjat'">потерять</verb>
+<verb latin="podpisat'">подписать</verb>
+<verb latin="zabolet'">заболеть</verb>
+<verb latin="vysochnut'">высохнуть</verb>
+</list>

@@ -61,7 +61,7 @@ $i
 
 <r>{
 
-for $ee in collection("/Users/mycomputer/Documents/actionality_coding/03_p-values/")
+for $ee in collection("/Users/mycomputer/Documents/actionality_coding_DFG/03_p-values/")
 where $ee//case[./aspect-values[@sign = "yes"]] 
 
 
