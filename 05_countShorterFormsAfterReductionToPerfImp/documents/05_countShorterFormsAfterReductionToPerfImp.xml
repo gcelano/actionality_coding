@@ -1,0 +1,51 @@
+<r>
+  <file ud_tbk="UD_Ancient_Greek-PROIEL">
+    <r coin="57" non-coin="71" p-value="0.2159249" sign="no"/>
+  </file>
+  <file ud_tbk="UD_Ancient_Greek">
+    <r coin="6" non-coin="12" p-value="0.1572992" sign="no"/>
+  </file>
+  <file ud_tbk="UD_Arabic-NYUAD"/>
+  <file ud_tbk="UD_Arabic-PUD"/>
+  <file ud_tbk="UD_Arabic"/>
+  <file ud_tbk="UD_Basque"/>
+  <file ud_tbk="UD_Bulgarian"/>
+  <file ud_tbk="UD_Czech"/>
+  <file ud_tbk="UD_Greek">
+    <r coin="3" non-coin="5" p-value="0.4795001" sign="no"/>
+  </file>
+  <file ud_tbk="UD_Hindi-PUD"/>
+  <file ud_tbk="UD_Hindi">
+    <r coin="42" non-coin="1" p-value="4.040854e-10" sign="yes"/>
+  </file>
+  <file ud_tbk="UD_Italian-PUD"/>
+  <file ud_tbk="UD_Kazakh"/>
+  <file ud_tbk="UD_Kurmanji"/>
+  <file ud_tbk="UD_Latin-ITTB"/>
+  <file ud_tbk="UD_Latin-PROIEL">
+    <r coin="46" non-coin="28" p-value="0.03639761" sign="yes"/>
+  </file>
+  <file ud_tbk="UD_Latin">
+    <r coin="5" non-coin="1" p-value="0.1024704" sign="no"/>
+  </file>
+  <file ud_tbk="UD_Latvian"/>
+  <file ud_tbk="UD_Marathi"/>
+  <file ud_tbk="UD_Old_Church_Slavonic">
+    <r coin="11" non-coin="5" p-value="0.1336144" sign="no"/>
+  </file>
+  <file ud_tbk="UD_Polish"/>
+  <file ud_tbk="UD_Portuguese-PUD"/>
+  <file ud_tbk="UD_Russian-PUD"/>
+  <file ud_tbk="UD_Russian-SynTagRus">
+    <r coin="262" non-coin="84" p-value="1.07591e-21" sign="yes"/>
+  </file>
+  <file ud_tbk="UD_Russian"/>
+  <file ud_tbk="UD_Slovak"/>
+  <file ud_tbk="UD_Slovenian"/>
+  <file ud_tbk="UD_Spanish-PUD"/>
+  <file ud_tbk="UD_Turkish-PUD"/>
+  <file ud_tbk="UD_Turkish"/>
+  <file ud_tbk="UD_Urdu">
+    <r coin="14" non-coin="2" p-value="0.002699796" sign="yes"/>
+  </file>
+</r>

@@ -1,0 +1,23 @@
+<text ud_vrn="ud-treebanks-v2.1" ud_tbk="UD_Arabic-NYUAD" xquery="03_p-valuesAfterReductionToPerfImp.xq">
+  <case n="1">
+    <verb_lemma/>
+    <aspect-values p-value="6.038357e-44" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="28635"/>
+      <value label="Imp" total="25403"/>
+    </aspect-values>
+  </case>
+  <case n="2">
+    <verb_lemma>none</verb_lemma>
+    <aspect-values p-value="0.1715714" sign="no" more-frequent="Perf">
+      <value label="Perf" total="117"/>
+      <value label="Imp" total="97"/>
+    </aspect-values>
+  </case>
+  <case n="3">
+    <verb_lemma>tbupdate</verb_lemma>
+    <aspect-values p-value="0.0101207" sign="yes" more-frequent="Perf">
+      <value label="Perf" total="122"/>
+      <value label="Imp" total="85"/>
+    </aspect-values>
+  </case>
+</text>
